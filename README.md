@@ -16,6 +16,10 @@
 5. **Enter** your session ID in console
 6. **Done** - Everything is now automated
 
+## 📥 Download
+
+[Download index.js](https://raw.githubusercontent.com/sumon9836/ALI-MD_panel_file/refs/heads/main/index.js)
+
 
 ## Deploy To Panel
 
