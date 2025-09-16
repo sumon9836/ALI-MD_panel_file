@@ -143,7 +143,7 @@ async function setupSessionId() {
     }
     let sessionId = '';
     while (!sessionId) {
-      sessionId = await ask('🍎 Enter your SESSION_ID: ');
+      sessionId = await ask('🍎 Enter your SESSION_ID:\n🍎 Enter your SESSION_ID: ');
       if (!sessionId) {
         log.warning("SESSION_ID cannot be empty. Please try again.");
         continue;
