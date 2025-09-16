@@ -17,7 +17,7 @@
 6. **Done** - Everything is now automated
 
 #### Download panel file 
-<a href="https://raw.githubusercontent.com/sumon9836/ALI-MD_panel_file/refs/heads/main/index.js"><img title="KAISEN-MD PANEL File" src="https://img.shields.io/badge/1 File- download index.js -h?color=black&style=for-the-badge&logo=files"></a>
+<a href="https://github.com/sumon9836/ALI-MD_panel_file/blob/main/index.js"><img title="KAISEN-MD PANEL File" src="https://img.shields.io/badge/1 File- download index.js -h?color=black&style=for-the-badge&logo=files"></a>
 
 ### Deploy To Panel
 
