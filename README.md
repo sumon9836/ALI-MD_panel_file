@@ -16,12 +16,10 @@
 5. **Enter** your session ID in console
 6. **Done** - Everything is now automated
 
-## 📥 Download
+#### Download panel file 
+<a href="https://raw.githubusercontent.com/sumon9836/ALI-MD_panel_file/refs/heads/main/index.js"><img title="KAISEN-MD PANEL File" src="https://img.shields.io/badge/1 File- download index.js -h?color=black&style=for-the-badge&logo=files"></a>
 
-[Download index.js](https://raw.githubusercontent.com/sumon9836/ALI-MD_panel_file/refs/heads/main/index.js)
-
-
-## Deploy To Panel
+### Deploy To Panel
 
 <a href="https://optiklink.com"><img title="OptikLink" src="https://img.shields.io/badge/DEPLOY OptikLink-h?color=black&style=for-the-badge&logo=pterodactyl"></a>
 
