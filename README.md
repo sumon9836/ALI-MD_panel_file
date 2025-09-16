@@ -1,4 +1,3 @@
-
 # 𝐀ɭīī 𝐌𝐃 𝐁❍𝐓 panel file
 
 > Created by 𝘴น𝚖𝔞ꪦ_𝗿ǿⲩ 🍉 𝐀ɭīī 𝐈𝐍𝅦𝐗īī𝐃𝐄**
@@ -13,9 +12,17 @@
 
 1. **Download** the `index.js` file from this repository
 2. **Upload** the file to your panel (don't edit it)
-3. **Run** the file: `node index.js`
-4. **Enter** your session ID when prompted
-5. **Done** - Everything is now automated
+3. **Run** `start panel`
+5. **Enter** your session ID in console
+6. **Done** - Everything is now automated
+
+
+## Deploy To Panel
+
+<a href="https://optiklink.com"><img title="OptikLink" src="https://img.shields.io/badge/DEPLOY OptikLink-h?color=black&style=for-the-badge&logo=pterodactyl"></a>
+
+<a href="https://bot-hosting.net"><img title="bot hosting" src="https://img.shields.io/badge/DEPLOY bot hosting-h?color=black&style=for-the-badge&logo=pterodactyl"></a>
+
 
 ## Important Notes
 
@@ -31,4 +38,13 @@
 - **Session errors**: Use a fresh, valid session ID
 - **Console issues**: Make sure you can access the application console
 
----
+-------
+
+
+
+
+ ### Support
+
+<a href="https://chat.whatsapp.com/EP0hLj5Pjx89s9VXbzZ3iV?mode=ac_t"><img alt="WhatsApp" src="https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp"/></a>
+
+<a href="https://chat.whatsapp.com/EP0hLj5Pjx89s9VXbzZ3iV?mode=ac_t"><img alt="WhatsApp" src="https://img.shields.io/badge/follow-WHATSAAP%20channel-25D366?style=for-the-badge&logo=whatsapp"/></a>
